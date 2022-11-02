@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Angular, Java, NodeJs**
 
-- 📫 How to reach me **brandon.segers@outlook.fr**
+- 📫 How to reach me **brandon.segers@brangers.eu**
 
 - ⚡ Fun fact **I like Elon Musk**
 
