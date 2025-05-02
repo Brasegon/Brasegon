@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Brandon, I study at Epitech and I love aerospace.<br>I like to touch a bit of everything to discover new things and acquire new skills, such as the development of video games (VR game), embedded systems and hacking.
+Hi 👋, I'm Brandon, I work at Hoppen and I love aerospace.<br>I like to touch a bit of everything to discover new things and acquire new skills, such as the development of video games (VR game), embedded systems and hacking.
 
 
 ## 🌐 Socials:
